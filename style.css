@@ -236,7 +236,6 @@ body::-webkit-scrollbar {
     background-position: center center;
     font-family: 'Source Sans Pro', sans-serif;
 }
-
 .hp-overlay-green-content h2 {
     font-size: 2.36em;
     font-weight: 300;
@@ -272,7 +271,6 @@ body::-webkit-scrollbar {
     transition: all .2s ease-in;
     background-color: #8fc843;
 }
-
 .banner-buy-btn:hover{
     text-decoration: none;
     color: #fff;
@@ -304,9 +302,6 @@ body::-webkit-scrollbar {
         font-size: 1.8rem;
     }
 }
-
-
-
 /* ================= end ============== */
 
 
@@ -928,7 +923,6 @@ body::-webkit-scrollbar {
     margin: 0 auto;
     text-align: center;
 }
-
 .section-faq .faq-wrap {
     margin: 2em auto;
     width: 75%;
